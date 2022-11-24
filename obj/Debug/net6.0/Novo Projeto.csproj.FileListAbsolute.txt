@@ -1,0 +1,26 @@
+C:\Projetos\Novo Projeto\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\Novo Projeto\bin\Debug\net6.0\appsettings.json
+C:\Projetos\Novo Projeto\bin\Debug\net6.0\Novo Projeto.staticwebassets.runtime.json
+C:\Projetos\Novo Projeto\bin\Debug\net6.0\Novo Projeto.exe
+C:\Projetos\Novo Projeto\bin\Debug\net6.0\Novo Projeto.deps.json
+C:\Projetos\Novo Projeto\bin\Debug\net6.0\Novo Projeto.runtimeconfig.json
+C:\Projetos\Novo Projeto\bin\Debug\net6.0\Novo Projeto.dll
+C:\Projetos\Novo Projeto\bin\Debug\net6.0\Novo Projeto.pdb
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.csproj.AssemblyReference.cache
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.AssemblyInfoInputs.cache
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.AssemblyInfo.cs
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.csproj.CoreCompileInputs.cache
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.RazorAssemblyInfo.cache
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.RazorAssemblyInfo.cs
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\scopedcss\bundle\Novo Projeto.styles.css
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\scopedcss\projectbundle\Novo Projeto.bundle.scp.css
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.dll
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\refint\Novo Projeto.dll
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.pdb
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\Novo Projeto.genruntimeconfig.cache
+C:\Projetos\Novo Projeto\obj\Debug\net6.0\ref\Novo Projeto.dll
